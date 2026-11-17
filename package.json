@@ -1,0 +1,10 @@
+{
+  "name": "package-lifecycle-script-auditor",
+  "version": "1.0.0",
+  "description": "Static auditor for npm lifecycle scripts (preinstall/install/postinstall/prepare) and their dependency reference chains",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
